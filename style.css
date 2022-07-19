@@ -1,0 +1,33 @@
+body {
+    display:flex;
+    flex-direction:column;
+}
+.header{
+    display:flex;
+    flex-direction: column;
+    background-color: #1F2937;
+    padding:0% 5% 10% 10%;
+    margin:0px;
+}
+.fullheader{
+display:flex;
+justify-content: center;
+}
+.boxes{
+    display: flex;
+    flex-wrap:wrap;
+}
+.middle{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+}
+
+.center {
+    background-color: #E5E7EB ;
+    margin:0px;
+    padding:5% 15%;
+
+
+}
