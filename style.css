@@ -12,8 +12,14 @@ body {
 ul{
     display:flex;
     list-style:none;
-    color:white;
-    
+   
+
+}
+.headertitle {
+    display: flex;
+    justify-content: space-between;
+    color: white;
+
 }
 .fullheader{
 display:flex;
