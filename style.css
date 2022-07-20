@@ -9,6 +9,12 @@ body {
     padding:0% 5% 10% 10%;
     margin:0px;
 }
+ul{
+    display:flex;
+    list-style:none;
+    color:white;
+    
+}
 .fullheader{
 display:flex;
 justify-content: center;
