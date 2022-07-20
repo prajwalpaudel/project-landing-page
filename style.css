@@ -11,9 +11,13 @@ body {
 }
 ul{
     display:flex;
-    list-style:none;
-   
-
+    list-style:none;  
+}
+a:link{
+    color:#E5E7EB;
+    text-decoration: none;
+    t
+    
 }
 .headertitle {
     display: flex;
