@@ -20,7 +20,6 @@ ul{
 a:link{
     color:#E5E7EB;
     text-decoration: none;
-    t
     
 }
 .headertitle {
@@ -32,6 +31,9 @@ a:link{
 .fullheader{
 display:flex;
 justify-content: center;
+}
+.placeholder{
+    background-color: #E5E7EB;
 }
 .boxes{
     display: flex;
@@ -49,5 +51,8 @@ justify-content: center;
     margin:0px;
     padding:5% 15%;
 
+}
 
+.footer{
+    background-color: #1F2937;
 }
