@@ -30,10 +30,24 @@ a:link{
 }
 .fullheader{
 display:flex;
-justify-content: center;
+justify-content: space-between;
+}
+
+.leftheader{
+    flex-wrap:wrap;
+    width:33vw;
+    margin:0;
+    padding:0;
 }
 .placeholder{
     background-color: #E5E7EB;
+    flex-wrap:wrap;
+    width:33vw;
+    padding:0;
+    margin:0;
+    display:flex;
+    justify-content: center;
+    align-items: center;
 }
 .boxes{
     display: flex;
