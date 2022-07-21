@@ -45,9 +45,11 @@ button {
     width:33vw;
     margin:0;
     padding:0;
+    color:white;
 }
 .placeholder{
-    background-color: #E5E7EB;
+    background-color: #e5e7eb9f;
+    color:white;
     flex-wrap:wrap;
     width:33vw;
     padding:0;
