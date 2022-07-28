@@ -34,6 +34,7 @@ display:flex;
 justify-content: space-between;
 
 }
+
 button {
     background-color: #3882F6;
     color:white;
@@ -62,7 +63,10 @@ button {
 }
 .boxes{
     display: flex;
-    flex-wrap:wrap;
+    
+}
+p {
+    text-align: center;
 }
 .middle{
     display:flex;
