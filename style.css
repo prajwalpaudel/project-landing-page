@@ -106,3 +106,19 @@ p.quote-owner{
 .footer{
     background-color: #1F2937;
 }
+.end{
+  display:flex;
+  flex-direction: column;
+  padding:4% 10%;
+  color:white;
+
+}
+.container {
+    background-color: #3882F6;
+    padding: 2% 5%;
+    
+}
+.statement{
+    display:flex;
+    justify-content: space-between;
+}
