@@ -62,10 +62,20 @@ button {
     align-items: center;
 }
 .boxes{
-    display: flex;
+    display: flex;  
     
 }
+
 p {
+   
+    padding:0;
+    margin:0;
+    
+
+}
+
+.box1{
+    display:inline-block;
     text-align: center;
 }
 .middle{
