@@ -67,11 +67,10 @@ button {
 }
 
 p {
-   
+   color:gray;
     padding:0;
     margin:0;
     
-
 }
 
 .box1{
@@ -94,7 +93,16 @@ p {
     padding:5% 15%;
 
 }
-
+p.quote{
+    color:#252526;
+    font-style: italic;
+    text-align:left;
+}
+p.quote-owner{
+    color:black;
+    font-weight:bolder;
+    text-align:right;
+}
 .footer{
     background-color: #1F2937;
 }
