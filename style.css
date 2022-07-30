@@ -86,7 +86,10 @@ p {
     margin:0px;
     
 }
-
+h3{
+    font-size: 36px;
+    font-weight:bolder;
+}
 .center {
     background-color: #E5E7EB ;
     margin:0px;
