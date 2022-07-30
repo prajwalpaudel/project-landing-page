@@ -114,13 +114,18 @@ p.quote-owner{
 
 }
 .container {
-    background-color: #3882F6;
+    border-color:white;
+    border-radius: 4px;
     padding: 2% 5%;
-    
+    background-color: #3882F6;
 }
 .statement{
     display:flex;
     justify-content: space-between;
+    
+}
+.button2{
+    border:2px solid white;
 }
 .call{
     color:white;
