@@ -96,12 +96,15 @@ h3{
     padding:5% 15%;
 
 }
-p.quote{
-    color:#252526;
+.quote{
+    color:#1F2937;
     font-style: italic;
+    font-weight:lighter;
     text-align:left;
+    font-size: 36px;
+    
 }
-p.quote-owner{
+.quote-owner{
     color:black;
     font-weight:bolder;
     text-align:right;
