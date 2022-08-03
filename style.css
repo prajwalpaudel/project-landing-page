@@ -5,6 +5,7 @@ body {
     flex-direction:column;
     font-family: Roboto;
 }
+
 .header{
     display:flex;
     flex-direction: column;
@@ -50,11 +51,15 @@ button {
     padding:0;
     color:white;
 }
+.img0{
+    width:50vw;
+    height:auto;
+}
 .placeholder{
-    background-color: #e5e7eb9f;
+    background-color:none;
     color:white;
     flex-wrap:wrap;
-    width:33vw;
+    width: 50vw;
     padding:0;
     margin:0;
     display:flex;
@@ -63,8 +68,18 @@ button {
 }
 .boxes{
     display: flex;  
+    justify-content: space-between;
+}
+
+.box1{
+    width:22%;
+    height:auto;
+}
+.box1 .img1 {
+    width:100%;
     
 }
+
 
 p {
    color:gray;
@@ -73,10 +88,6 @@ p {
     
 }
 
-.box1{
-    display:inline-block;
-    text-align: center;
-}
 .middle{
     display:flex;
     flex-direction: column;
@@ -96,6 +107,7 @@ h3{
     padding:5% 15%;
 
 }
+
 .quote{
     color:#1F2937;
     font-style: italic;
